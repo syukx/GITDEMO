@@ -1,4 +1,2 @@
 # Hello, Git! 
-## part 2
-
-Feature1
+## changed from branch 3
