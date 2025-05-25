@@ -1,2 +1,2 @@
 # Hello, Git! 
-## changed from branch 2
+## branch 2
